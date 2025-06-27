@@ -7,7 +7,7 @@ This project focuses on using SQL to extract, manipulate, and analyze ecommerce 
 ## Dataset Information
 
 * **Name:** `orders_details`
-* **Source:** [Glovo-style ecommerce dataset]('https://www.kaggle.com/datasets/yassinesadiki/ecommerce-data-of-glovo')
+* **Source:** [Glovo-style ecommerce dataset](https://www.kaggle.com/datasets/yassinesadiki/ecommerce-data-of-glovo)
 * **File:** `orders_details.csv`
 * **Records:** 50k rows
 * **Imported to:** MySQL Workbench for querying
