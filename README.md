@@ -177,5 +177,7 @@ ORDER BY total_orders DESC;
   * Payment preferences
 
 ---
+## Thank You 
 
- 
+> Created by: **Rajeshwari Agnimandala**  
+> June 2025  
